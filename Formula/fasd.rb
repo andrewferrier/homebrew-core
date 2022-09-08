@@ -1,8 +1,8 @@
 class Fasd < Formula
   desc "CLI tool for quick access to files and directories"
   homepage "https://github.com/clvv/fasd"
-  url "https://github.com/clvv/fasd/archive/1.0.1.tar.gz"
-  sha256 "88efdfbbed8df408699a14fa6c567450bf86480f5ff3dde42d0b3e1dee731f65"
+  url "https://github.com/whjvenyl/fasd/releases/download/1.0.2/fasd-1.0.2.zip"
+  sha256 "3ab3f751f812ea3acd26545cd62f522e600a289bfac51e82337ce3684ba137bd"
   license "MIT"
   head "https://github.com/clvv/fasd.git", branch: "master"
 
